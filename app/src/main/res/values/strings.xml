@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">blood bank</string>
+    <string name="name">Name</string>
+    <string name="your_details_will_be_public_to_community_by_using_this_app_you_also_need_to_pledge_to_be_doner_to_help_those_who_are_need">Your details will be public to community , by using this App You also need to pledge to be doner to help those who are need.</string>
+    <string name="number">Number</string>
+    <string name="blood_group">blood Group</string>
+    <string name="password">Password</string>
+    <string name="become_a_doner">Become a doner</string>
+    <string name="city">City</string>
+    <string name="sign_up"><u>Sign Up</u></string>
+    <string name="choose_location">Choose Location</string>
+    <string name="make_request">Make Request</string>
+</resources>
